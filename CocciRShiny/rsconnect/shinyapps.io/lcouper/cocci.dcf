@@ -1,0 +1,10 @@
+name: cocci
+title:
+username: lcouper
+account: lcouper
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9936868
+bundleId: 7712490
+url: https://lcouper.shinyapps.io/cocci/
+version: 1
